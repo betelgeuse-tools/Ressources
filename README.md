@@ -11,8 +11,8 @@ https://embracethered.com/blog/posts/2022/ttp-diaries-ssh-agent-hijacking/
 ---
 
 ## HTTP
-https://portswigger.net/burp/documentation
-https://curl.se/docs/manpage.html
+- https://portswigger.net/burp/documentation
+- https://curl.se/docs/manpage.html
 
 ---
 
